@@ -1,7 +1,7 @@
 
-# School Management API
+# Educase-OA
 
-This project is a Node.js-based API for managing school data, allowing users to add new schools and retrieve a list of schools sorted by proximity to a user-specified location.
+This is my submission for the assn to create Node.js-based API for managing school data, allowing users to add new schools and retrieve a list of schools sorted by proximity to a user-specified location.
 
 ## Task List
 
@@ -17,6 +17,15 @@ This project is a Node.js-based API for managing school data, allowing users to 
 - [x] Set up error logging
 - [ ] Deploy to Railway
 - [ ] Create Postman collection for API testing
+
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/36555282-98c9ec1b-c7b3-45fe-a74c-1318f0de4052?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D36555282-98c9ec1b-c7b3-45fe-a74c-1318f0de4052%26entityType%3Dcollection%26workspaceId%3D71aebf8a-2dea-49dd-848f-50e5b7a17498)
+
+## Deployment
+
+go to `https://rudradev-educase-oa-production.up.railway.app/docs`
+for swagger documentation (recommended as compared to postman collection)
+
+
 
 ## Installation
 
@@ -97,9 +106,4 @@ json [ { "id": 1, "name": "School Name", "address": "School Address", "latitude"
 
 Run the test suite with:
 `npm test`
-
-## Deployment
-
-go to `https://rudradev-educase-oa-production.up.railway.app/docs`
-for swagger documentation (recommended as compared to postman collection)
 
