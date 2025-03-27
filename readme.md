@@ -100,6 +100,6 @@ Run the test suite with:
 
 ## Deployment
 
-go to `https://readme.so/editor`
+go to `https://rudradev-educase-oa-production.up.railway.app/docs`
 for swagger documentation (recommended as compared to postman collection)
 
